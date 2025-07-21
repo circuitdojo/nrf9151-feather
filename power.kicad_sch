@@ -5955,7 +5955,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CON-USB-DX07S016JA1R1500"
+		(property "Value" "CON-USB-1003-030-01210-TR"
 			(at 227.33 144.78 0)
 			(effects
 				(font
@@ -5964,7 +5964,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Circuit Dojo:JAE_DX07S016JA1R1500"
+		(property "Footprint" "Circuit Dojo:CNC_TECH_1003-030-01210-TR"
 			(at 238.76 147.32 0)
 			(effects
 				(font

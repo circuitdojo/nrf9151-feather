@@ -7,7 +7,7 @@
 	(title_block
 		(title "nRF9151 Feather")
 		(date "2024-12-04")
-		(rev "1.0")
+		(rev "2")
 		(company "Circuit Dojo LLC")
 	)
 	(lib_symbols

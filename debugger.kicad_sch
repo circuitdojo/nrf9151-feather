@@ -8002,7 +8002,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Circuit Dojo:WOLFF-DEN_SW-EVP-AA402W"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
 			(at 64.77 132.08 0)
 			(effects
 				(font

@@ -7815,7 +7815,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Circuit Dojo:WOLFF-DEN_SW-EVP-AA402W"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
 			(at 100.33 208.28 0)
 			(effects
 				(font
@@ -10406,7 +10406,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Circuit Dojo:WOLFF-DEN_SW-EVP-AA402W"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
 			(at 64.77 250.19 0)
 			(effects
 				(font
