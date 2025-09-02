@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 1e-06
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -70,151 +70,11 @@
       ],
       "drc_exclusions": [
         [
-          "connection_width|133850000|98154450|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|133850000|99520226|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|133933742|111065250|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|134386256|111065250|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|134850000|98154450|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|134850000|99520226|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|135412705|104276201|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|135417033|104454395|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|139534750|107446258|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|139534750|108386258|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|141900000|97475087|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|141900000|97798678|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|141903669|97419763|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|145143749|106840009|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|145143749|106968800|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|145143750|107299990|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|145143751|107171201|836df855-d6cd-44d8-a843-2f269309c17c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|148899999|101217509|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|148900000|101346300|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|148900001|101548701|9fb3ceaf-40fb-460f-8ef6-07b45a3de83c|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc",
-          ""
-        ],
-        [
-          "connection_width|159651258|96774750|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|160026258|99524750|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|168950000|100620155|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|168950000|109354841|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|168950000|110420155|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "connection_width|168952372|99566765|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "courtyards_overlap|130030000|99844800|d0720bea-672d-432a-8382-0b30d85dc512|f47c1d32-96b9-44bd-88a2-75c7e0aa7805",
           ""
         ],
         [
           "courtyards_overlap|146107527|111098526|200ce2b6-c1b3-4755-b1d2-713a0dfcb11c|521dcc3a-6474-472c-8cfb-1c8067b8dd3a",
-          ""
-        ],
-        [
-          "silk_over_copper|129468597|114350800|a51e9976-2c22-43b1-bf9b-db5b3a5b562f|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|146997838|97924201|b842618f-26af-4a84-a481-723097399c8a|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|147999928|104749207|735fe880-02c7-4b95-8566-9df794cc9a7c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|151223370|96326791|ce0f5ba3-1a7d-4746-b4fa-9973d7543dcf|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|151484884|96089200|96862d5f-e4fd-40eb-95f0-a266690c838f|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|160187889|95919200|c21992d4-0620-4874-91c9-be843872b9d3|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|169105100|101110000|af133a93-413d-4ac1-b301-8d1fcfd4ab7f|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_overlap|136960000|96321149|9365f00a-c52c-4930-aa2a-236e394aa3c1|d76c6db4-4e30-4364-8f5d-e41d654252cc",
-          ""
-        ],
-        [
-          "starved_thermal|139000000|106280000|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|33c03889-c517-4470-8372-7163ae72225e|B.Cu",
           ""
         ],
         [
@@ -635,6 +495,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -732,7 +593,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Production/v2-proto/",
+      "plot": "Production/v2/",
       "pos_files": "./",
       "specctra_dsn": "",
       "step": "nRF9161_Feather.step",
@@ -756,36 +617,12 @@
     },
     "bom_presets": [],
     "bom_settings": {
-      "exclude_dnp": true,
+      "exclude_dnp": false,
       "fields_ordered": [
         {
           "group_by": false,
           "label": "Reference",
           "name": "Reference",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Value",
-          "name": "Value",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Circuit Dojo PN",
-          "name": "Circuit Dojo PN",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Datasheet",
-          "name": "Datasheet",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Footprint",
-          "name": "Footprint",
           "show": true
         },
         {
@@ -796,15 +633,39 @@
         },
         {
           "group_by": true,
+          "label": "Value",
+          "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
           "show": true
         },
         {
+          "group_by": true,
+          "label": "Exclude from BOM",
+          "name": "${EXCLUDE_FROM_BOM}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from Board",
+          "name": "${EXCLUDE_FROM_BOARD}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
           "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
+          "label": "Datasheet",
+          "name": "Datasheet",
+          "show": true
         },
         {
           "group_by": false,
@@ -895,11 +756,29 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Exclude from Simulation",
+          "name": "${EXCLUDE_FROM_SIM}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Circuit Dojo PN",
+          "name": "Circuit Dojo PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": false,
+      "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
       "sort_field": "Reference"

@@ -11,6 +11,146 @@
 		(company "Circuit Dojo LLC")
 	)
 	(lib_symbols
+		(symbol "Circuit Dojo:STS4X"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -10.16 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "STS4X"
+				(at -10.16 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "STS4X:STS4X"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "STS4X_0_0"
+				(rectangle
+					(start -10.16 -7.62)
+					(end 10.16 7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -15.24 2.54 0)
+					(length 5.08)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 -2.54 0)
+					(length 5.08)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 5.08 180)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -5.08 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1064,6 +1204,12 @@
 		(uuid "72161cb1-f04b-4f22-9cf5-c6b3f9349796")
 	)
 	(junction
+		(at 111.76 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7660467f-3c5a-410b-b7de-7a981a117948")
+	)
+	(junction
 		(at 72.39 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1105,6 +1251,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 44.45) (xy 111.76 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "016eaeae-aefa-4d03-8ca5-b88e1db45302")
+	)
+	(wire
+		(pts
 			(xy 77.47 110.49) (xy 77.47 113.03)
 		)
 		(stroke
@@ -1122,6 +1278,16 @@
 			(type default)
 		)
 		(uuid "07a5c25b-8493-4fda-b82f-c9327a7e11d7")
+	)
+	(wire
+		(pts
+			(xy 62.23 63.5) (xy 74.93 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1387e124-d8bf-41f3-9139-794d167bc987")
 	)
 	(wire
 		(pts
@@ -1235,6 +1401,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 40.64) (xy 111.76 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a5545db-0603-4c98-803f-f3f3f50a40be")
+	)
+	(wire
+		(pts
 			(xy 128.27 142.24) (xy 130.81 142.24)
 		)
 		(stroke
@@ -1262,6 +1438,16 @@
 			(type default)
 		)
 		(uuid "42409898-2bdd-418f-abc7-017b356a6f20")
+	)
+	(wire
+		(pts
+			(xy 62.23 58.42) (xy 74.93 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b58993c-b818-4179-b56d-06070c4d4707")
 	)
 	(wire
 		(pts
@@ -1405,6 +1591,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 44.45) (xy 105.41 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbad4ce9-e114-4a46-9634-381966e657dc")
+	)
+	(wire
+		(pts
 			(xy 138.43 121.92) (xy 128.27 121.92)
 		)
 		(stroke
@@ -1462,6 +1658,17 @@
 			(type default)
 		)
 		(uuid "ff2bb677-d863-460c-91b4-1fe6cb80f67b")
+	)
+	(hierarchical_label "I2C_SDA"
+		(shape bidirectional)
+		(at 62.23 63.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "36f3a8da-7726-4bf3-aa56-26e60e73e812")
 	)
 	(hierarchical_label "I2C_SDA"
 		(shape bidirectional)
@@ -1528,6 +1735,92 @@
 			(justify left)
 		)
 		(uuid "e5ea2b4e-d1e7-4f40-8322-10e57f259cb2")
+	)
+	(hierarchical_label "I2C_SCL"
+		(shape input)
+		(at 62.23 58.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f5fb2da3-0b23-4097-88cc-d368f5736a62")
+	)
+	(symbol
+		(lib_id "Circuit Dojo:STS4X")
+		(at 90.17 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "06d3aa92-6d58-4af1-895a-3f9295e8959e")
+		(property "Reference" "U13"
+			(at 90.17 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "STS4X"
+			(at 90.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Circuit Dojo:STS4X"
+			(at 90.17 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.17 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0fc4851a-60b3-403f-b097-789eb9b01e20")
+		)
+		(pin "2"
+			(uuid "7012bd39-f4b0-4b78-a57a-256d458147c0")
+		)
+		(pin "4"
+			(uuid "4ef57dc9-2b61-40aa-a9f1-3fa9311897bd")
+		)
+		(pin "3"
+			(uuid "262c5541-5389-4da1-b495-67525cb48a78")
+		)
+		(instances
+			(project ""
+				(path "/3ad610b0-b2b9-402c-9c8d-906412422f4e/d708eac2-ce23-4a70-8750-cea49d1d299d"
+					(reference "U13")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "nrf91-feather-eagle-import:+3V3")
@@ -1805,6 +2098,72 @@
 			(project "nRF9161_Feather"
 				(path "/3ad610b0-b2b9-402c-9c8d-906412422f4e/d708eac2-ce23-4a70-8750-cea49d1d299d"
 					(reference "RN5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nrf91-feather-eagle-import:GND")
+		(at 105.41 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5a1dbce4-a5ea-466f-b726-c6b3ce3d4732")
+		(property "Reference" "#GND065"
+			(at 105.41 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 102.87 71.12 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 105.41 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "208c476f-5686-42f2-b877-602d5df3ed7b")
+		)
+		(instances
+			(project "nRF9151_Feather"
+				(path "/3ad610b0-b2b9-402c-9c8d-906412422f4e/d708eac2-ce23-4a70-8750-cea49d1d299d"
+					(reference "#GND065")
 					(unit 1)
 				)
 			)
@@ -2251,6 +2610,245 @@
 			(project ""
 				(path "/3ad610b0-b2b9-402c-9c8d-906412422f4e/d708eac2-ce23-4a70-8750-cea49d1d299d"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 111.76 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "873a8685-7ca2-469d-9d16-d20f79435920")
+		(property "Reference" "C48"
+			(at 114.935 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1u"
+			(at 114.935 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 112.7252 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 114.935 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 111.76 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" ""
+			(at 111.76 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Circuit Dojo PN" "CAP-0.1U-50V-0402"
+			(at 111.76 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73b2569b-2eb1-4763-98d6-c1fa739f2703")
+		)
+		(pin "2"
+			(uuid "6d462085-bbb1-4107-8b3f-b303081d548a")
+		)
+		(instances
+			(project "nRF9151_Feather"
+				(path "/3ad610b0-b2b9-402c-9c8d-906412422f4e/d708eac2-ce23-4a70-8750-cea49d1d299d"
+					(reference "C48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nrf91-feather-eagle-import:+3V3")
+		(at 111.76 38.1 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a13d1262-93be-493c-90b1-55366e2e09bb")
+		(property "Reference" "#+3V016"
+			(at 111.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "773e27a1-aba4-4885-bd70-24f097a38ce2")
+		)
+		(instances
+			(project "nRF9151_Feather"
+				(path "/3ad610b0-b2b9-402c-9c8d-906412422f4e/d708eac2-ce23-4a70-8750-cea49d1d299d"
+					(reference "#+3V016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nrf91-feather-eagle-import:GND")
+		(at 111.76 54.61 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aa2408f8-0939-46ae-909b-9cff2f100e93")
+		(property "Reference" "#GND066"
+			(at 111.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.3 57.15 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6094518-f717-427c-b0e6-cde5aa0af980")
+		)
+		(instances
+			(project "nRF9151_Feather"
+				(path "/3ad610b0-b2b9-402c-9c8d-906412422f4e/d708eac2-ce23-4a70-8750-cea49d1d299d"
+					(reference "#GND066")
 					(unit 1)
 				)
 			)

@@ -9062,6 +9062,165 @@
 		)
 		(uuid "ff4080ac-e598-4e42-8b1b-933fa6ed75c7")
 	)
+	(table
+		(column_count 2)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 30.48 8.89)
+		(row_heights 2.54 2.54 2.54 2.54)
+		(cells
+			(table_cell "I2C Address List"
+				(exclude_from_sim no)
+				(at 17.78 16.51 0)
+				(size 30.48 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "3e8df83a-60e3-429a-81cc-14b5c6130b7a")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 48.26 16.51 0)
+				(size 8.89 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "d0eaa4b1-8f08-4784-b444-98275eeb5010")
+			)
+			(table_cell "NPM1300"
+				(exclude_from_sim no)
+				(at 17.78 19.05 0)
+				(size 30.48 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "36fe8818-a878-46f0-b56f-03806aacfca7")
+			)
+			(table_cell "0x6B"
+				(exclude_from_sim no)
+				(at 48.26 19.05 0)
+				(size 8.89 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "c5997c7c-8bcc-449c-8319-10f6575e7308")
+			)
+			(table_cell "LIS2DH12TR"
+				(exclude_from_sim no)
+				(at 17.78 21.59 0)
+				(size 30.48 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "ee6f701d-2cac-4a90-84c8-557f191e16da")
+			)
+			(table_cell "0x19"
+				(exclude_from_sim no)
+				(at 48.26 21.59 0)
+				(size 8.89 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "5e7af92e-6b79-4b23-bfd2-ba159c114a96")
+			)
+			(table_cell "STS40-AD1B-R3"
+				(exclude_from_sim no)
+				(at 17.78 24.13 0)
+				(size 30.48 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "5c7405ba-2ef7-43c7-b7af-f162fd233446")
+			)
+			(table_cell "0x44"
+				(exclude_from_sim no)
+				(at 48.26 24.13 0)
+				(size 8.89 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "da0ab4e7-5ef7-4be8-a8f4-d82ca2506ca1")
+			)
+		)
+	)
 	(label "I2C_SCL"
 		(at 87.63 88.9 180)
 		(effects
