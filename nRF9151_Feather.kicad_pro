@@ -593,7 +593,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Production/v2/",
+      "plot": "Production/v3/",
       "pos_files": "./",
       "specctra_dsn": "",
       "step": "nRF9161_Feather.step",

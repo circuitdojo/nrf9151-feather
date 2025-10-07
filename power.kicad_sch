@@ -2534,7 +2534,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "CON-USB-DX07S016JA1R1500"
+			(property "Value" "CON-USB-1003-030-01210-TR"
 				(at -10.16 -13.97 0)
 				(effects
 					(font
@@ -2543,7 +2543,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "DX07S016JA1R1500:JAE_DX07S016JA1R1500"
+			(property "Footprint" "Circuit Dojo:CNC_TECH_1003-030-01210-TR"
 				(at 1.27 -16.51 0)
 				(effects
 					(font
@@ -2588,6 +2588,15 @@
 					(hide yes)
 				)
 			)
+			(property "Circuit Dojo PN" "CON-USB-DX07S016JA1R1500"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "ki_locked" ""
 				(at 0 0 0)
 				(effects
@@ -2600,7 +2609,7 @@
 				(pin passive line
 					(at -15.24 5.08 0)
 					(length 5.08)
-					(name "CC1"
+					(name "SBU2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2618,7 +2627,7 @@
 				(pin passive line
 					(at -15.24 2.54 0)
 					(length 5.08)
-					(name "SBU2"
+					(name "CC1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2661,7 +2670,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "7"
 						(effects
 							(font
 								(size 0 0)
@@ -2697,7 +2706,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "8"
 						(effects
 							(font
 								(size 0 0)
@@ -2708,7 +2717,7 @@
 				(pin passive line
 					(at -15.24 -5.08 0)
 					(length 5.08)
-					(name "SBU1"
+					(name "CC2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2726,7 +2735,7 @@
 				(pin passive line
 					(at -15.24 -7.62 0)
 					(length 5.08)
-					(name "CC2"
+					(name "SBU1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3825,16 +3834,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 125.73) (xy 212.09 125.73)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "11921097-8663-4665-b6b6-e136fc7c0f50")
-	)
-	(wire
-		(pts
 			(xy 58.42 99.06) (xy 34.29 99.06)
 		)
 		(stroke
@@ -3975,6 +3974,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 135.89) (xy 222.25 135.89)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2834886d-b344-4f74-a659-abef382a2218")
+	)
+	(wire
+		(pts
 			(xy 252.73 123.19) (xy 262.89 123.19)
 		)
 		(stroke
@@ -4022,16 +4031,6 @@
 			(type default)
 		)
 		(uuid "31245a6f-3544-4501-b6d8-db9f33cd361e")
-	)
-	(wire
-		(pts
-			(xy 212.09 138.43) (xy 222.25 138.43)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "33d53f8d-514c-4727-9a69-9f2cf3d21be5")
 	)
 	(wire
 		(pts
@@ -4462,6 +4461,16 @@
 			(type default)
 		)
 		(uuid "a983f6c3-7f4e-42ae-92c7-47401d1cc49d")
+	)
+	(wire
+		(pts
+			(xy 222.25 128.27) (xy 212.09 128.27)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "aab136c4-a289-4ca0-bd06-20ab9e025b1e")
 	)
 	(wire
 		(pts
@@ -4914,6 +4923,16 @@
 		(uuid "0fc7f123-4d36-44f5-8e69-0b114deb1bac")
 	)
 	(label "CC2"
+		(at 212.09 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "19846867-2cea-42b3-817d-8f75dc66c8ce")
+	)
+	(label "CC2"
 		(at 48.26 93.98 0)
 		(effects
 			(font
@@ -4922,16 +4941,6 @@
 			(justify left bottom)
 		)
 		(uuid "2d5e2929-f390-45e7-ad5c-94e71c3200a2")
-	)
-	(label "CC2"
-		(at 212.09 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "53bb3ada-894d-4faa-acf4-eec0452df801")
 	)
 	(label "PMIC_SW2"
 		(at 127 111.76 0)
@@ -4944,14 +4953,14 @@
 		(uuid "969adeee-f131-4b90-98e2-e4c221913505")
 	)
 	(label "CC1"
-		(at 212.09 125.73 0)
+		(at 212.09 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "ee0c017e-0425-46c8-954b-b0b4f4f35956")
+		(uuid "9cfee03d-5696-404a-8469-7c134b116d9d")
 	)
 	(label "PMIC_SW1"
 		(at 124.46 99.06 0)
