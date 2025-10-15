@@ -6220,6 +6220,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 148.59 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ccd506a-78c5-4e8c-ab97-a6af3427b27b")
 		)
@@ -6432,6 +6441,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 133.35 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6f6494ee-63f2-4d2e-830b-2afdcf3ee34d")
 		)
@@ -6530,6 +6548,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "CAP-0.1U-50V-0402"
+			(at 241.3 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 241.3 26.67 0)
 			(effects
 				(font
@@ -6907,6 +6934,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 168.91 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e16eba4d-94a8-4a91-902e-19ba45af3d97")
 		)
@@ -6980,6 +7016,15 @@
 		)
 		(property "Circuit Dojo PN" "DIO-BAT54CW"
 			(at 58.42 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 58.42 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7088,6 +7133,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "CAP-0.1U-50V-0402"
+			(at 251.46 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 251.46 26.67 0)
 			(effects
 				(font
@@ -7400,6 +7454,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 200.66 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb726a77-30f3-4f3c-acd8-09b34f4f1826")
 		)
@@ -7505,6 +7568,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 48.26 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a120fccc-e971-45ca-bfc1-9620eb345bf9")
 		)
@@ -7574,6 +7646,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "IC-TPS22919"
+			(at 82.55 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 82.55 40.64 0)
 			(effects
 				(font
@@ -7662,6 +7743,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "IC-DUAL-BUFF-TC7PZ17"
+			(at 238.76 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 238.76 134.62 0)
 			(effects
 				(font
@@ -7780,6 +7870,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "CAP-0.1U-50V-0402"
+			(at 179.07 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 179.07 24.13 0)
 			(effects
 				(font
@@ -7960,6 +8059,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 210.82 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cd44c3f8-5dcb-4bb7-8777-e265f0607ea5")
 		)
@@ -8048,6 +8156,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "SW-434153017835‎"
+			(at 64.77 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 64.77 132.08 0)
 			(effects
 				(font
@@ -8159,6 +8276,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "CAP-0.1U-50V-0402"
+			(at 231.14 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 231.14 113.03 0)
 			(effects
 				(font
@@ -8339,6 +8465,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 231.14 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d64a4ba7-1fdf-42eb-ac02-665352a7c90b")
 		)
@@ -8477,6 +8612,15 @@
 		)
 		(property "Circuit Dojo PN" "RES-100-5%-0404-DUAL"
 			(at 233.68 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 233.68 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8720,6 +8864,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "CAP-0.1U-50V-0402"
+			(at 158.75 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 158.75 40.64 0)
 			(effects
 				(font
@@ -9002,6 +9155,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 264.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "3201299e-3f6a-42c5-b951-92555c08805f")
 		)
@@ -9109,6 +9271,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 83.82 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "49fd06d8-60e8-4535-aa3a-44bda88781e5")
 		)
@@ -9198,6 +9369,15 @@
 		)
 		(property "Circuit Dojo PN" "RES-100-5%-0404-DUAL"
 			(at 232.41 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 232.41 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9355,6 +9535,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 142.24 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "aec38824-e19d-49c1-8e8a-022448d72df2")
 		)
@@ -9467,6 +9656,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 52.07 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf434145-ce0b-43ea-9915-9009a92ea67e")
 		)
@@ -9564,6 +9762,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "RES-1K-5%-0402"
+			(at 144.78 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 144.78 114.3 0)
 			(effects
 				(font
@@ -9781,6 +9988,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 232.41 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "cda1c79b-c25f-4e1f-9ec0-7c3714a6af73")
 		)
@@ -9856,6 +10072,15 @@
 		)
 		(property "Circuit Dojo PN" "RES-100-5%-0404-DUAL"
 			(at 224.79 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 224.79 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10012,6 +10237,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 233.68 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "86754199-65be-4d0d-a654-f472471227dd")
 		)
@@ -10123,6 +10357,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 194.31 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "277f6c58-b310-476d-8fee-f9dfeb3ff9c6")
 		)
@@ -10143,7 +10386,7 @@
 		(at 151.13 127 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "c144a24d-6db5-4907-99ca-444d4c74018a")
@@ -10304,6 +10547,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 58.42 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c5eaf45f-c264-4f19-98c5-7f49445adb8c")
 		)
@@ -10375,6 +10627,15 @@
 		)
 		(property "Circuit Dojo PN" "RES-100-5%-0404-DUAL"
 			(at 224.79 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 224.79 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10457,6 +10718,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "XTAL-4PIN-12MHZ-2.5x2.0MM"
+			(at 127 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 127 114.3 0)
 			(effects
 				(font
@@ -10840,6 +11110,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 113.03 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aeeaf8c8-e606-41e4-9d76-f0c806581f37")
 		)
@@ -10977,6 +11256,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "IC-RP2040"
+			(at 180.34 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 180.34 96.52 0)
 			(effects
 				(font
@@ -11360,6 +11648,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 119.38 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5a6b8c1f-75a6-4e4d-8e01-e1ad90f9dc8c")
 		)
@@ -11380,7 +11677,7 @@
 		(at 151.13 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "ec23c3d6-abee-4ce3-9c77-730245d9d707")
@@ -11674,6 +11971,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 67.31 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "faad3827-4b18-4edc-b23a-239d02938c23")
 		)
@@ -11780,6 +12086,15 @@
 				(hide yes)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 220.98 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbdaff02-0612-475c-81a9-ea455e96c5b4")
 		)
@@ -11878,6 +12193,15 @@
 			)
 		)
 		(property "Circuit Dojo PN" "RES-1K-5%-0402"
+			(at 48.26 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
 			(at 48.26 35.56 0)
 			(effects
 				(font

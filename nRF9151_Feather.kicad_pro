@@ -774,6 +774,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": true,
+          "label": "Var",
+          "name": "Var",
+          "show": true
         }
       ],
       "filter_string": "",

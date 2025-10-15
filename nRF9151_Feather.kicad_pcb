@@ -441,6 +441,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "260f8f50-6e49-4cd4-b891-9fb7013c5c60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/4be5fe68-3b74-4b09-bf87-8039dd5ce9e7")
 		(sheetname "/Debugger/")
@@ -922,6 +935,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed7562d3-51b4-4788-8341-9cf3d156fcb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/937b6a67-a37e-4da9-8ce0-37476f5dbf03")
 		(sheetname "/Debugger/")
@@ -1174,6 +1200,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da3530ca-f124-4f22-a32a-b964c9f574c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/295883a3-8309-455e-b6f9-368f2d3a0d1b")
 		(sheetname "/Debugger/")
@@ -1407,6 +1446,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3153bb2a-3b7d-4d83-aab4-7f61099826e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6731e9bd-8d1c-419c-a24f-b68c5a38a4bb")
 			(effects
 				(font
 					(size 1 1)
@@ -2097,6 +2149,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a48d2b63-f4d3-493d-b7de-9a313e167033")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c5dbacb-e7db-411f-b092-bebb5ff6930e")
 			(effects
 				(font
 					(size 1 1)
@@ -4078,6 +4143,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ca58e9c-72d1-41a6-8410-4bb7dbbf1206")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/bafc6dcd-478c-4eec-bb93-48697f423114")
 		(sheetname "/Debugger/")
@@ -4311,6 +4389,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7fe41a8e-55ac-46e4-8334-322920d7293d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f549d5d-2837-42dd-b8e5-c1a12212d096")
 			(effects
 				(font
 					(size 1 1)
@@ -4909,6 +5000,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4850f621-cb51-4a82-bc2c-bb690e9d7a5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "547ab46d-69a1-43f3-aac0-8bb853cace19")
 			(effects
 				(font
 					(size 1 1)
@@ -5567,6 +5671,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ca78cc67-c984-4c5b-a44e-275bfd19890f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/b20060d7-79d5-4b9f-a258-23e37957bd9e")
 		(sheetname "/Debugger/")
@@ -6029,6 +6146,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b194dcff-1634-44dd-acaa-bc578af265d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/c478b531-9d05-4246-8b21-e130129d07f5")
 		(sheetname "/Debugger/")
@@ -6222,6 +6352,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7e44c54a-9f20-4781-90ad-bd5631bebdf8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3dd0ebe4-3c56-42ce-8cdf-130b49f83801")
 			(effects
 				(font
 					(size 1 1)
@@ -6538,6 +6681,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55325769-9182-4394-8288-1b1334fc5b76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/55fccbf2-8ed0-47ef-b29d-38f350d680f1")
 		(sheetname "/Debugger/")
 		(sheetfile "debugger.kicad_sch")
@@ -6792,6 +6948,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f7fc5e4-084a-4632-a45c-136a0a4073fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/0a078c72-1bd3-4f01-a6c4-d49d6afff363")
 		(sheetname "/Debugger/")
@@ -7025,6 +7194,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "41bb6a9a-2d19-400d-9a31-e289e3564fdc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a02c615-a5f0-44b4-ac6a-08098ae356e1")
 			(effects
 				(font
 					(size 1 1)
@@ -7519,6 +7701,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d674a1c6-7c18-411f-ba4f-6f15b72b3bdc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1db5de8-b633-4dd9-af34-bb533d75c9ec")
 			(effects
 				(font
 					(size 1 1)
@@ -9744,6 +9939,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6a6b129-fa8a-4bb5-8004-5273783f7bad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/1d3c99b2-c82c-49e9-9fbc-d025b496b3d6")
 		(sheetname "/Debugger/")
@@ -9941,6 +10149,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4ebc4858-6dcd-4602-ad4b-4aa89d4b97ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1eba3ee5-e560-4d8f-a6a7-5ed59c8c00c4")
 			(effects
 				(font
 					(size 1 1)
@@ -12710,6 +12931,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "297982be-bf74-4637-83c6-b7bc8ea074f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/2ab54e01-6efc-427b-a092-0e37f8c19e21")
 		(sheetname "/Debugger/")
@@ -13049,6 +13283,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "80c22489-e400-4175-b6fd-e5e9fa86d785")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b76b1721-f9e2-4bb2-bc92-3dc6719a5a95")
 			(effects
 				(font
 					(size 1 1)
@@ -14772,6 +15019,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ff605e6-c5c7-440a-80ff-44524005e216")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/d56fd4e5-2a00-43c3-9da8-7f1d967d78e2")
 		(sheetname "/Debugger/")
@@ -15073,6 +15333,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "16714757-faf2-4d2d-a21e-5fd3bafac96b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7293e7e9-9f5e-44e5-8cb7-fb536f983bfe")
 			(effects
 				(font
 					(size 1 1)
@@ -16279,6 +16552,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b321213e-f6ca-4256-a2df-dd6b4123ccd8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/76a26511-ea50-4c55-8475-22f977700df7")
 		(sheetname "/Debugger/")
 		(sheetfile "debugger.kicad_sch")
@@ -16611,6 +16897,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b4930f6-fa48-4b46-b89f-bd0a05b92cf0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5e8f172-2d9f-444b-a0e1-602a0ebcfeef")
 			(effects
 				(font
 					(size 1 1)
@@ -17404,6 +17703,19 @@
 				)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc189b52-bc7b-4787-a558-a9bbcc081259")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/6d38447d-8cdc-4c4a-bc23-e84d0601f99d")
 		(sheetname "/Debugger/")
@@ -17642,6 +17954,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ff8985d8-1432-4bb8-90d0-ce1c5c823c43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "534cd04a-c654-49a4-8336-4dbf3484c0ea")
 			(effects
 				(font
 					(size 1 1)
@@ -18351,6 +18677,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "11ae8ab9-b65d-4d36-ac42-2071689662b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0d4cc99b-4f4f-4373-8c2a-a26662112334")
 			(effects
 				(font
 					(size 1 1)
@@ -19126,6 +19466,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f54dd556-f309-4152-8226-b93d3be47eeb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fc62f3b5-258d-429b-ac73-ebe1e6fc7720")
 			(effects
 				(font
 					(size 1 1)
@@ -19967,7 +20321,7 @@
 		(path "/0e459ecd-a404-430d-a96d-d024f4234211")
 		(sheetname "/")
 		(sheetfile "nRF9151_Feather.kicad_sch")
-		(attr exclude_from_pos_files dnp)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -20236,6 +20590,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9a9fb0f3-4914-432f-af75-6aa94528f403")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(255k) Cptel(0R)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b44ef3cd-6fb0-49cc-a571-a039ac68e33b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Circuit Dojo PN.Var" "Standard(RES-255K-1%-0402) Cptel(RES-0R-0402)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bd025fec-7cce-48e7-9aac-a0deaa50d382")
 			(effects
 				(font
 					(size 1 1)
@@ -22255,6 +22637,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "26aa6b27-b2d6-4786-b944-0c98e1f99d70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SOT?363*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/4b167cb4-4a7b-4d36-9f1d-a414bfee9776")
 		(sheetname "/Debugger/")
@@ -22533,7 +22929,7 @@
 		(path "/c1be2f0e-915f-42dd-badb-b623b9b6ca23/8b2a0d95-2b90-438d-b379-ffb664014170")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(attr exclude_from_pos_files dnp)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -23144,6 +23540,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2a8a49d2-28bb-4598-b12f-86c16c4bab98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c1be2f0e-915f-42dd-badb-b623b9b6ca23/e03f5e82-8453-40e3-8c17-b6921c746218")
 		(sheetname "/Power/")
@@ -23651,6 +24061,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "41a740df-176b-4d4d-83b1-f26764d8342f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/ff057075-d48b-40b5-8f31-2580e42de0dd")
 		(sheetname "/Debugger/")
@@ -24037,6 +24461,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5b67e06a-e631-4dd5-8b0c-f4089feaee07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f9afe864-5400-4413-b9b7-8cc49e37b2ac")
 			(effects
 				(font
 					(size 1 1)
@@ -24500,6 +24938,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Circuit Dojo PN" "IC-STS40-AD1B-R3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5aa052c4-c68a-4bac-8c35-29154a500f1a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/d708eac2-ce23-4a70-8750-cea49d1d299d/06d3aa92-6d58-4af1-895a-3f9295e8959e")
 		(sheetname "/Sensor/")
 		(sheetfile "sensor.kicad_sch")
@@ -24896,6 +25348,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9078ecf0-74b9-40fc-b9cb-d911c1b5530d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "641b0c61-c457-420f-98c5-9b29a5ea8a5e")
 			(effects
 				(font
 					(size 1 1)
@@ -26013,6 +26479,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "65a7f5ba-14ef-4241-a789-6aa2b40ac5db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "DIP* SOIC* R*Array*Concave* R*Array*Convex*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/ab10d410-6a52-4071-91ff-d918157b2af2")
 		(sheetname "/Debugger/")
@@ -26732,7 +27212,7 @@
 		(path "/59c12b3e-7908-4e51-84b5-867dbd612f17")
 		(sheetname "/")
 		(sheetfile "nRF9151_Feather.kicad_sch")
-		(attr exclude_from_pos_files dnp)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -27343,7 +27823,7 @@
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/ec23c3d6-abee-4ce3-9c77-730245d9d707")
 		(sheetname "/Debugger/")
 		(sheetfile "debugger.kicad_sch")
-		(attr exclude_from_pos_files dnp)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -28362,6 +28842,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "44fc1380-6ce5-4f8b-9eec-fa0e80a0bc6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "00fe8cfc-b34f-483e-93d3-186d21252bdd")
 			(effects
 				(font
 					(size 1 1)
@@ -29690,6 +30184,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8cb3bf87-b777-41c1-a66e-6276334f14b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fda4be1f-9ddd-4b22-8829-1d308ea598c1")
 			(effects
 				(font
 					(size 1 1)
@@ -33068,7 +33576,7 @@
 		(path "/c1be2f0e-915f-42dd-badb-b623b9b6ca23/7680aec9-92aa-4d7a-8936-d297e823fa85")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(attr exclude_from_pos_files dnp)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -33180,7 +33688,7 @@
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/c144a24d-6db5-4907-99ca-444d4c74018a")
 		(sheetname "/Debugger/")
 		(sheetfile "debugger.kicad_sch")
-		(attr exclude_from_pos_files dnp)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -34044,6 +34552,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bb34d111-587f-46c2-a2e7-fb3b721bcc4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/c1be2f0e-915f-42dd-badb-b623b9b6ca23/5ae075d6-31a7-4b17-b896-1c8bc9daf0d8")
 		(sheetname "/Power/")
@@ -34257,6 +34779,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "569d8960-441e-426d-af71-cb96b6e7fca1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "62363dae-87c6-4cc6-841d-08606ffa4b44")
 			(effects
 				(font
 					(size 1 1)
@@ -34701,6 +35237,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5c3424a7-7ce3-4f03-9b1c-661182adb392")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2a301207-ed33-4445-b993-9e0f1ee66e29/4628a239-310e-4ac2-9559-cabe34c61d8e")
 		(sheetname "/Debugger/")
@@ -34902,6 +35452,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9b145c6b-1ba8-4651-80cb-bbe120f0681f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Var" "Variant Standard(+!) Cptel(-!)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "37121464-148b-4d27-9df8-10f1d005d817")
 			(effects
 				(font
 					(size 1 1)

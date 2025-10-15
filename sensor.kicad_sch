@@ -1801,6 +1801,15 @@
 				(hide yes)
 			)
 		)
+		(property "Circuit Dojo PN" "IC-STS40-AD1B-R3"
+			(at 90.17 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fc4851a-60b3-403f-b097-789eb9b01e20")
 		)
