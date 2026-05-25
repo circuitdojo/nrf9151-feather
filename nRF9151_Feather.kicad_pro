@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.54,
-          "height": 2.54,
-          "width": 2.54
+          "drill": 2.55,
+          "height": 2.9,
+          "width": 2.9
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -78,11 +78,11 @@
           ""
         ],
         [
-          "starved_thermal|148225000|106475000|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|2c43e3d3-baca-4d25-8c03-4de04d8fe2d0|B.Cu",
+          "starved_thermal|136325000|101445000|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|79001c53-5810-46b3-b222-e78b4a1ad07b|B.Cu",
           ""
         ],
         [
-          "starved_thermal|148350000|101445000|b26c4e3b-e5d5-4e9f-bedf-a5fa71182efc|8d80cdcb-cfa2-450d-9687-c83e4e2cde03|B.Cu",
+          "starved_thermal|137725000|95683600|836df855-d6cd-44d8-a843-2f269309c17c|a2a5b80f-ca64-416a-871e-ff6e968fc878|F.Cu",
           ""
         ]
       ],
@@ -124,13 +124,13 @@
         "missing_footprint": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "error",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "error",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -153,7 +153,7 @@
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_connection": 0.127,
-        "min_copper_edge_clearance": 0.0,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.127,
         "min_hole_to_hole": 0.127,
@@ -533,7 +533,6 @@
         "bus_width": 12,
         "clearance": 0.127,
         "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.127,
         "line_style": 0,
         "microvia_diameter": 0.458,
@@ -551,7 +550,6 @@
         "bus_width": 12,
         "clearance": 0.127,
         "diff_pair_gap": 0.115063,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.253672,
         "line_style": 0,
         "microvia_diameter": 0.458,
@@ -570,6 +568,11 @@
       "version": 4
     },
     "net_colors": {
+      "+3V3": "rgb(0, 255, 0)",
+      "/Headers/~{RESET}": "rgb(255, 0, 255)",
+      "VBAT": "rgb(132, 0, 132)",
+      "VBUS": "rgb(194, 0, 0)",
+      "VCC": "rgb(0, 0, 255)",
       "VSYS": "rgb(221, 133, 0)"
     },
     "netclass_assignments": null,
@@ -593,7 +596,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Production/v3/",
+      "plot": "Production/v4-1/",
       "pos_files": "./",
       "specctra_dsn": "",
       "step": "nRF9161_Feather.step",
@@ -780,6 +783,12 @@
           "label": "Var",
           "name": "Var",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Circuit Dojo PN.Var",
+          "name": "Circuit Dojo PN.Var",
+          "show": false
         }
       ],
       "filter_string": "",
